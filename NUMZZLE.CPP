@@ -114,7 +114,7 @@ void game()
     {
 	 r=row-1;
 	 c=col-1;
-	 cout<<"\n\n\n\n\t\t\t\t\tMATCH: "<<d<<endl<<"   "<<"\t\t\t\t\tMOVE : "<<cnt<<"   ";
+	 cout<<"\n\n\n\n\t\t\t\t\tMATCH: "<<d<<"   "<<endl<<"   "<<"\t\t\t\t\tMOVE : "<<cnt<<"   ";
 	 cod();
 	 ch=getch();
 	 if(ch==72&&r!=n-1)   //up key

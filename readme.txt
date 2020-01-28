@@ -10,7 +10,7 @@
 	Software Requirements         :
 							Windows/Linux 
 							(Versions supporting Turbo C++)
-							Turbo C++
+							Turbo C++ version 3.2
 							(Borland C++ compiler (v5.8))	
 
 	Hardware Requirement          :			100 MB Storage
